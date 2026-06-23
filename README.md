@@ -1,4 +1,6 @@
-## Hi there 👋
+# Hello 👋
+
+Bienvenido a mi repositorio. Aquí encontrarás proyectos enfocados en empresas de distribución, automatización de procesos y manejo de datos. 🚀
 
 <!--
 **LuisRengifoP/LuisRengifoP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
